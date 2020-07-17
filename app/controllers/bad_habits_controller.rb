@@ -1,0 +1,2 @@
+class BadHabitsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class GoodDayMarksController < ApplicationController
+end

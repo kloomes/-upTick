@@ -1,0 +1,2 @@
+class BadDayMarksController < ApplicationController
+end
